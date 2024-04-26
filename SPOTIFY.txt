@@ -1,0 +1,84 @@
+[Adblock Plus]
+! Title: Spotify only
+! Description: Try blocking spotify ads
+! Homepage: https://github.com/hagezi/dns-blocklists
+! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
+! Issues: https://github.com/hagezi/dns-blocklists/issues
+! Expires: 1 day
+! Last modified: 26 Apr 2024 02:54 UTC
+! Version: 2024.0426.0254.34
+! Syntax: AdBlock
+! Number of entries: 35
+!
+||api-spotify.net^
+
+||pixel.byspotify.com^
+
+||spotify.cn^
+
+||spotify.rs^
+
+||ad-analytics-staging.spotify.com^
+
+||ad-track-service-api-gcp-production.spotify.com^
+
+||ad-track-service-api-gcp-staging.spotify.com^
+
+||adeventtracker.spotify.com^
+
+||adeventtrackermonitoring.spotify.com^
+
+||adlab.spotify.com^
+
+||ads.spotify.com^
+
+||adstudio.spotify.com^
+
+||adstudio-help.spotify.com^
+
+||analytics.spotify.com^
+
+||analytics.spotify.net^
+
+||analytics-dashboard.spotify.net^
+
+||analytics-staging.spotify.com^
+
+||bloodhound.spotify.com^
+
+||crashdump.spotify.com^
+
+||delivery-tracker.spotify.net^
+
+||desktop.spotify.com^
+
+||ffcampaign.spotify.com^
+
+||log.spotify.com^
+
+||log2.spotify.com^
+
+||metric.spotify.music^
+
+||metrics.spotify.net^
+
+||partner-service.spotify.com^
+
+||payment-callback.spotify.com^
+
+||pixel.spotify.com^
+
+||pixel-static.spotify.com^
+
+||sentry.spotify.net^
+
+||speech-recognition.spotify.com^
+
+||surveys.spotify.com^
+
+||spotify-desktop.com^
+
+||metric.spotifyforbrands.com^
+
+||spotifypremiumaccounts.info^
+
